@@ -1,5 +1,5 @@
 
-theorem th3 (h : 2 = 2)
+theorem th (h : 2 = 2)
   : 2 = 2 := by
     exact h
 
